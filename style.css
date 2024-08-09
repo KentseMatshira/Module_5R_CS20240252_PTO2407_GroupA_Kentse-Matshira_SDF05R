@@ -85,5 +85,18 @@ p {
     rgb(207, 107, 232) 100%
   );
 }
+.btn-3 {
+  background: rgba(167, 97, 123, 0.541);
+  background: linear-gradient(
+    0deg,
+    rgb(230, 62, 124) 0%,
+    rgb(235, 17, 97) 100%
+  );
+  border: none;
+}
+.btn-3:hover {
+  background: rgb(149, 5, 5);
+  background: linear-gradient(0deg, rgb(196, 57, 75) 0%, rgb(103, 11, 28) 100%);
+}
 
 /* Add your custom styles for btn-1, btn-2, and btn-3 */
